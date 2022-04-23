@@ -1,0 +1,7 @@
+body{
+    background-color: aquamarine;
+
+}
+table, th, td{
+    border:black 3px dashed
+}
